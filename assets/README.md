@@ -1,0 +1,1 @@
+Upload future images to /assets (profile photos, certificates, gallery). Upload PDFs (CV) to /assets/docs. Update HTML paths accordingly.
